@@ -51,7 +51,7 @@ void Send_telegram (string file_Path) {
 }
 
 int main() {
-    file_Path = "/Users/smk/Desktop/workspace-projects/scaper/test/file.txt";
+    file_Path = "path";
     
     Send_telegram(file_Path);
 
